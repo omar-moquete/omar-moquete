@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @omar-moquete
-- 👀 I’m interested in learning, software development and photography
-- 🌱 I’m currently learning React.js
+- 👀 I’m a front-end web developer.
 - 💞️ I’m looking to collaborate on anything I can help with!
 - 📫 How to reach me: moqueteperez@gmail.com
 
