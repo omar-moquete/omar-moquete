@@ -1,16 +1,14 @@
-👋 Hello, I'm Omar Moquete!
+✋🏽 Hi, I'm Omar Moquete!
 
-Welcome to my GitHub profile, where I harness my passion for web development to create meaningful and engaging digital experiences. As a dedicated web developer, I am constantly exploring new technologies and pushing the boundaries of what is possible in the digital realm.
+Welcome to my GitHub profile! I'm a web developer passionate about creating meaningful and engaging digital experiences. I love exploring new technologies and pushing the boundaries of what's possible.
 
-With a strong foundation in HTML, CSS, and JavaScript, I bring ideas to life by designing and developing responsive and intuitive websites. I am well-versed in React and Next.js, enabling me to build dynamic and interactive user interfaces.
+With a solid background in HTML, CSS, and JavaScript, I bring ideas to life by designing and developing responsive, intuitive websites. My current tech stack includes TypeScript, React, Next.js, Tailwind CSS, MongoDB, Firebase, Redux, and more, which I use to build dynamic, interactive, and scalable user interfaces.
 
-Continuous learning and collaboration is one of my
+I'm all about continuous learning and collaboration. I'm always looking to expand my skill set and stay current with the latest trends and best practices in web development.
 
-guiding principle, and I'm always seeking to expand my skill set and stay up-to-date with the latest trends and best practices in web development.
+I'm excited to connect with fellow developers, so feel free to reach out for any opportunities or questions.
 
-I'm excited to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to explore my repositories, leave feedback, or reach out to me for any opportunities or questions.
-
-Let's build something incredible together! 🚀
+Let's create something amazing together! 🚀
 
 
 
